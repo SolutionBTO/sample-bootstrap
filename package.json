@@ -1,0 +1,29 @@
+{
+  "name": "sample-bootstrap",
+  "version": "1.0.0",
+  "description": "Exemplo do uso bootstrap em uma simples página de cadastro",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SolutionBTO/sample-bootstrap.git"
+  },
+  "keywords": [
+    "nodejs",
+    "npm",
+    "javascript",
+    "bootstrap"
+  ],
+  "author": "Roberto Silva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SolutionBTO/sample-bootstrap/issues"
+  },
+  "homepage": "https://github.com/SolutionBTO/sample-bootstrap#readme",
+  "dependencies": {
+    "bootstrap": "^5.1.3",
+    "jquery": "^3.6.0"
+  }
+}
